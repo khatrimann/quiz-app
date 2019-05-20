@@ -1,0 +1,23 @@
+#question {
+  font-family: 'Macondo Swash Caps', cursive;
+  font-size: 3rem;
+}
+
+#options {
+  font-family: 'Varela Round', sans-serif;
+  font-size: 1.2rem;
+}
+
+.container {
+  background-color: beige;
+  border-radius: 3%;
+}
+
+.col-6 {
+  align-content: center;
+  align-items: center;
+}
+
+.row{
+  margin-top: 1rem;
+}
